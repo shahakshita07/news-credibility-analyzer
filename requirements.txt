@@ -5,4 +5,8 @@ nltk
 streamlit
 textblob
 newspaper3k
+<<<<<<< HEAD
 matplotlib
+=======
+matplotlib
+>>>>>>> c9d8f9d (Added requirements file)
